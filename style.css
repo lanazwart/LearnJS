@@ -1,0 +1,14 @@
+body {
+	background: silver;
+	font: 14px arial;
+}
+html body h1 {
+	color: gray;
+}
+#electronics {
+	color: gold;
+
+}
+.color {
+	color: red;
+}
