@@ -5,10 +5,25 @@ body {
 html body h1 {
 	color: gray;
 }
+
+div.general {
+	border: 1px solid gray;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding: 10px;
+	margin: 5px;
+}
+
+div.highlight{
+	border: 1px solid green;
+	background: #fff;
+}
+
+.color {
+	color: red;
+}
+
 #electronics {
 	color: gold;
 
-}
-.color {
-	color: red;
 }
