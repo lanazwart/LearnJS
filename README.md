@@ -1,6 +1,8 @@
 LearnJS
 =======
 
+Learn git
+
 Code created through learning
 
 This project contains small pieces of code which was created while learning JavaScript 
